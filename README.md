@@ -27,7 +27,7 @@ It contains information about orders, customers, products, sales, shipping, and 
 ## ⚙️ Project Structure
 
 ### sql/
-- `superstore_project.sql` – contains all SQL code:
+- `SQL_Superstore_Project_eng.sql` – contains all SQL code:
   1. **Data Cleaning**
      - Drop & recreate table
      - Remove columns `Country` and `Sub-Category`
