@@ -51,37 +51,37 @@ Kaggle-Link: https://www.kaggle.com/datasets/juhi1994/superstore? (only the firs
 
 ## 💡 Key Insights / Results
 
-- The average profit margin 7.86 %.
-- The highest sales were recorded in New York, followed by Philadelphia and San Francisco.
-- Sales in the Southern US are significantly lower than in other regions.
-- The Consumer segment generates the highest sales, followed by Corporate and Home Office.
-- Top 3 products by sales:
+- The average profit margin **7.86 %**.
+- The highest sales were recorded in **New York**, followed by Philadelphia and San Francisco.
+- Sales in the **Southern US** are significantly lower than in other regions.
+- The **Consumer** segment generates the highest sales, followed by Corporate and Home Office.
+- **Top 3 products** by sales:
     1. Lexmark MX611dhe Monochrome Laser Printer
     2. Cubify CubeX 3D Printer Triple Head Print
     3. Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind
-- Top 3 customers by sales:
+- **Top 3 customers** by sales:
     1. Becky Martin – $10,539.90
     2. Grant Thornton – $8,167.42
     3. Christopher Martinez – $6,412.77
-- The highest profit comes from products in the Technology category, average profit $45.97 per orders.
-- In contrast, products in the Furniture category generate an average loss of $9.77 per order.
-- Technology products also generate the highest total sales, accounting for 39.17% of total revenue, highlighting their importance and profitability.
+- The highest profit comes from products in the **Technology** category, **average profit $45.97 per orders**.
+- In contrast, products in the **Furniture** category generate an **average loss of $9.77 per order**.
+- **Technology products** also generate the highest total sales, accounting for **39.17% of total revenue**, highlighting their importance and profitability.
 - Yearly sales trends:
     1. Best sales in 2014.
     2. 2015 saw a 27.15% decrease in sales.
     3. 2016 sales increased by 31.65%, almost reaching the 2014 level.
     4. Minor decline of 8.1% in the following year.
-- The average processing time per order is 4 days.
+- The average processing time per order is **4 days**.
 - Processing time varies by ship mode:
-    1. Same Day orders are shipped in less than 1 day
-    2. First Class orders take on average 2.2 days
-    3. Second Class orders take on average 3.2 days
-    4. Standard Class orders take on average 5 days
-- The largest discounts are applied to:
-    1. Furniture (average 18%)
-    2. Office Supplies (average 16%)
-    3. Technology (average 14%)
-- The high discount on Furniture products likely contributes to their low profitability, even leading to losses.
+    1. **Same Day** orders are shipped in **less than 1 day**
+    2. **First Class** orders take on average **2.2 days**
+    3. **Second Class** orders take on average **3.2 days**
+    4. **Standard Class** orders take on average **5 days**
+- The **largest discounts** are applied to:
+    1. Furniture (average **18%**)
+    2. Office Supplies (average **16%**)
+    3. Technology (average **14%**)
+- The high discount on Furniture products likely contributes to their low profitability.
 
 ---
 
