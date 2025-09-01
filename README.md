@@ -89,5 +89,5 @@ Kaggle-Link: https://www.kaggle.com/datasets/juhi1994/superstore? (only the firs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/superstore-sql-project.git
-   cd superstore-sql-project
+   git clone https://github.com/vasilesirbu95/SQL_Superstore_Project.git
+   cd SQL_Superstore_Project
