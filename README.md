@@ -6,7 +6,7 @@ It is designed as a **Data Analyst portfolio project**.
 ---
 
 ## 📊 Dataset
-The dataset is based on the **Superstore Sales Dataset** (Kaggle).  
+The dataset is based on the **Superstore Sales Dataset** (Kaggle - only the first 1000 rows).  
 It contains information about orders, customers, products, sales, shipping, and more.
 
 **Key columns**:
@@ -47,7 +47,7 @@ It contains information about orders, customers, products, sales, shipping, and 
      - Average Discount per Category
 
 ### dataset/
-Kaggle-Link: https://www.kaggle.com/datasets/juhi1994/superstore?
+Kaggle-Link: https://www.kaggle.com/datasets/juhi1994/superstore? (only the first 1000 rows)
 
 ## 💡 Key Insights / Results
 
